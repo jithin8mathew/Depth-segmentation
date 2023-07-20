@@ -1,2 +1,2 @@
 # Depth-segmentation
-Real-time Background Segmentation with Depth Camer
+Real-time Background Segmentation with Depth Camera
